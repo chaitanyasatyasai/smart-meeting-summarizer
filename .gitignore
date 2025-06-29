@@ -1,0 +1,9 @@
+venv/
+pycache/
+*.pyc
+.env
+*.wav
+*.mp3
+*.tmp
+whisper_cache/
+*.pt
